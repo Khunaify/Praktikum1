@@ -10,9 +10,10 @@ Jawaban
    b.Masukan nilai lebar(l) persegi.
    c.Masukan rumus luas(L)= panjang(P) X lebar(l)
    d.Tampilkan hasil luas persegi panjang.
-  
-# include <iostream.h>
-# include <conio.h>main (){
+Program Menggunakan C++  
+#include <iostream.h>
+#include <conio.h>main ()
+{
 int  P,l,L;
 cout<<”\t Menghitung Luas Persegi Panjang \n”;
 cout<<”Masukkan P     : “;
@@ -25,8 +26,8 @@ cout<<”Luas Persegi Panjang = “<<L<<endl;}
 2.a.Menginput sebuah bilangan 
   b.Jika bilangan yang di input bilangan ganjil maka akan tampil "Bilangan Ganjil"
   c.Jika bilangan yang di input bilangan genap maka akan tampil "Bilangan Genap"
-  
-# include <iostream.h>
+Program Menggunakan C++  
+#include <iostream.h>
 using namespace std;
 void main(){
 int nilai;
@@ -43,14 +44,16 @@ return 0;
   b.Jika bil(a) > bil(b), Maka mencetak hasil bil(a)
   c.Jika bil(a) < bil(b), Maka mencetak hasil bil(b)
 
-# include <iostream.h>
-# include <conio.h>main (){
+Program Menggunakan C++  
+#include <iostream.h>
+#include <conio.h>main ()
+{
 int a,b;
-            cout<<"Masukkan nilai A : ";cin>>a;
-            cout<<"Masukkan nilai B : ";cin>>b;
-            if(a<b){
-                        cout<<"B terbesar\n";
-            }else if(a>b){
-                        cout<<"A terbesar\n";
-            }else
-            cout<<"Eror";}
+cout<<"Masukkan nilai A : ";cin>>a;
+cout<<"Masukkan nilai B : ";cin>>b;
+if(a<b){
+cout<<"B terbesar\n";
+}else if(a>b){
+cout<<"A terbesar\n";
+}else
+cout<<"Eror";}

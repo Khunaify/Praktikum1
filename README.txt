@@ -1,6 +1,4 @@
 # Praktikum1
-
-# Praktikum1
 Latihan Soal Alogaritma!
 Soal
 1.Menghitung luas persegi panjang.

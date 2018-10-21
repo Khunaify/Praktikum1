@@ -1,0 +1,21 @@
+# Praktikum1
+Latihan Soal Alogaritma!
+Soal
+1.Menghitung luas persegi panjang.
+2.Mengetahui suatu bilangan ganjil/genap.
+3.Mencari bilangan terbesar dari 2 bilangan yang di inputkan.
+ Jawaban
+1. a.Masukan nilai panjang(P) persegi.
+   b.Masukan nilai lebar(l) persegi.
+   c.Masukan rumus luas(L)= panjang(P) X lebar(l)
+   d.Tampilkan hasil luas persegi panjang.
+
+   
+2.a.Menginput sebuah bilangan 
+  b.Jika bilangan yang di input bilangan ganjil maka akan tampil "Bilangan Ganjil"
+  c.Jika bilangan yang di input bilangan genap maka akan tampil "Bilangan Genap"
+
+3.a.Menginput 2 buah bilangan ke variabel a dan b.
+  b.Jika bil(a) > bil(b), Maka mencetak hasil bil(a)
+  c.Jika bil(a) < bil(b), Maka mencetak hasil bil(b)
+ 
